@@ -5,7 +5,7 @@
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
   </div>
-  <h1>Hey there 🖖
+  <h1>Hey there 🖖, my name is Oleksandr!
 </div>
 
 ### :man_technologist: About Me:
