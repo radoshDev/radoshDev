@@ -13,7 +13,8 @@
 - :telescope: Now I'm working as a Content Manager/HTML Developer.
 - :books: I like to learn something new.
 - :zap: In my free time, I solve tasks on [Codewars](https://www.codewars.com) and read tech articles.
-- :mailbox: My email [radosh.dev@gmail.com](mailto:radosh.dev@gmail.com)
+- :mailbox: My email [radosh.dev@gmail.com](mailto:radosh.dev@gmail.com).
+- :receipt: For more infomation [resume](https://docs.google.com/document/d/1MgGVACM837y9CnEg3lOnNsnMO9XGwWs_VsGPglKKRlM/edit).
 ### :hammer_and_wrench: Languages and Tools:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
