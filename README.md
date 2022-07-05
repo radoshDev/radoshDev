@@ -34,3 +34,11 @@
 </div>
   
 ### :briefcase: Portfolio:
+<ul>
+  <li><a href="https://furniture-shop-ten.vercel.app">furniture-shop</a> | <a href="https://github.com/radoshDev/furniture-shop">source code</a> | 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="20" height="20"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="20" height="20"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="SASS" alt="SASS" width="20" height="20"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/gulp/gulp-plain.svg" title="Gulp" alt="Gulp" width="20" height="20"/>&nbsp;
+  </li>
+</ul>
