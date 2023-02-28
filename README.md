@@ -53,6 +53,14 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/PWA_logo.svg/512px-PWA_logo.svg.png" height="16" title="PWA">&nbsp;
   </li>
   <li>
+    <a href="fire-blog-rho.vercel.app">fire-blog</a> | 
+    <a href="https://github.com/radoshDev/fire-blog">source code</a> | 
+     <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="VueJS" alt="VueJS" width="20" height="20"/>&nbsp;
+     <img src="https://pinia.vuejs.org/logo.svg" title="Pinia (Vuex)" alt="Pinia (Vuex)" width="20" height="20"/>&nbsp;
+     <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="20" height="20"/>&nbsp;
+    <img src="https://cdn.quasar.dev/logo-v2/svg/logo.svg" title="Quasar (UI lib)" width="20" height="20" />
+  </li>
+  <li>
     <a href="https://furniture-shop-ten.vercel.app">furniture-shop</a> | <a href="https://github.com/radoshDev/furniture-shop">source code</a> | 
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="20" height="20"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="20" height="20"/>&nbsp;
