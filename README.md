@@ -27,8 +27,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="SASS" alt="SASS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
+  <img src="https://supabase.com/favicon/favicon-96x96.png" title="Supabase" alt="Supabase" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/eslint/eslint-original.svg" title="ESLint" alt="ESLint" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title="Jest" alt="Jest" width="40" height="40"/>&nbsp;
   <img src="https://vitest.dev/logo.svg" alt="Vitest" title="Vitest (testing lib)" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
@@ -38,14 +38,22 @@
   
 ### :briefcase: Portfolio:
 <ul>
-  <li><a href="https://rentago.io/">Rentago (similar to booking.com)</a> | <a href="https://drive.google.com/drive/folders/1JpoI8ArgQNDQRKk9TkvzyvukbUdafhqg">design</a> |
+  <li><a href="https://edu-play-v2.vercel.app/" target="_blank">EduPlay</a> | <a href="https://github.com/radoshDev/EduPlay-v2">source code</a> | 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="VueJS" alt="VueJS" width="20" height="20"/>&nbsp;
+    <img src="https://pinia.vuejs.org/logo.svg" title="Pinia (Vuex)" alt="Pinia (Vuex)" width="20" height="20"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="20" height="20"/>&nbsp;
+    <img src="https://supabase.com/favicon/favicon-96x96.png" title="Supabase" alt="Supabase" width="20" height="20"/>&nbsp;
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/PWA_logo.svg/512px-PWA_logo.svg.png" height="16" title="PWA">&nbsp;
+    <img src="https://tailwindcss.com/favicons/favicon-32x32.png?v=3" title="Tailwind CSS" width="21" height="21"/>
+  </li>
+  <li><a href="https://rentago.io/" target="_blank">Rentago (similar to booking.com)</a> | <a href="https://drive.google.com/drive/folders/1JpoI8ArgQNDQRKk9TkvzyvukbUdafhqg">design</a> |
     <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="NextJS" alt="NextJS" width="20" height="20"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="20" height="20"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="20" height="20"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="SASS" alt="SASS" width="20" height="20"/>&nbsp;
   </li>
   <li>
-    <a href="https://master-of-reading-radoshdev.vercel.app/">Master of reading (Learning to read Ukrainian for kids)</a> | 
+    <a href="https://master-of-reading-radoshdev.vercel.app/" target="_blank">Master of reading (Learning to read Ukrainian for kids)</a> | 
     <a href="https://github.com/radoshDev/master-of-reading">source code</a> | 
     <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="VueJS" alt="VueJS" width="20" height="20"/>&nbsp;
     <img src="https://pinia.vuejs.org/logo.svg" title="Pinia (Vuex)" alt="Pinia (Vuex)" width="20" height="20"/>&nbsp;
@@ -53,7 +61,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/PWA_logo.svg/512px-PWA_logo.svg.png" height="16" title="PWA">&nbsp;
   </li>
   <li>
-    <a href="fire-blog-rho.vercel.app">fire-blog</a> | 
+    <a href="fire-blog-rho.vercel.app" target="_blank">fire-blog</a> | 
     <a href="https://github.com/radoshDev/fire-blog">source code</a> | 
      <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="VueJS" alt="VueJS" width="20" height="20"/>&nbsp;
      <img src="https://pinia.vuejs.org/logo.svg" title="Pinia (Vuex)" alt="Pinia (Vuex)" width="20" height="20"/>&nbsp;
