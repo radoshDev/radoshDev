@@ -46,7 +46,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/PWA_logo.svg/512px-PWA_logo.svg.png" height="16" title="PWA">&nbsp;
     <img src="https://tailwindcss.com/favicons/favicon-32x32.png?v=3" title="Tailwind CSS" width="21" height="21"/>
   </li>
-  <li><a href="https://rentago.io/" target="_blank">Rentago (similar to booking.com)</a> | <a href="https://drive.google.com/drive/folders/1JpoI8ArgQNDQRKk9TkvzyvukbUdafhqg">design</a> |
+  <li><a href="https://app.rentago.io/" target="_blank">Rentago (similar to booking.com)</a> | <a href="https://drive.google.com/drive/folders/1JpoI8ArgQNDQRKk9TkvzyvukbUdafhqg">design</a> |
     <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="NextJS" alt="NextJS" width="20" height="20"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="20" height="20"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="20" height="20"/>&nbsp;
