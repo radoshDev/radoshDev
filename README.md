@@ -38,6 +38,13 @@
   
 ### :briefcase: Portfolio:
 <ul>
+  <li>
+    <a href="https://logincasino.org/" target="_blank">logincasino</a> | <a href="https://github.com/radoshDev/casinotheme">source</a> | 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" title="WordPress" width="20" height="20" />&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" width="20" height="20" />&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" width="20" height="20" />&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="SASS" alt="SASS" width="20" height="20"/>&nbsp;
+  </li>
   <li><a href="https://edu-play-v2.vercel.app/" target="_blank">EduPlay</a> | <a href="https://github.com/radoshDev/EduPlay-v2">source code</a> | 
     <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="VueJS" alt="VueJS" width="20" height="20"/>&nbsp;
     <img src="https://pinia.vuejs.org/logo.svg" title="Pinia (Vuex)" alt="Pinia (Vuex)" width="20" height="20"/>&nbsp;
