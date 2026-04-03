@@ -13,7 +13,7 @@
 - :books: I enjoy learning new things.
 - :zap: Like to solve tasks on [Codewars](https://www.codewars.com) and read tech articles.
 - :mailbox: My email [radosh.dev@gmail.com](mailto:radosh.dev@gmail.com).
-- :receipt: For more information, [resume](https://docs.google.com/document/d/1MgGVACM837y9CnEg3lOnNsnMO9XGwWs_VsGPglKKRlM/edit).
+- :receipt: For more information, [resume](https://caring-onion-feb.notion.site/Oleksandr-Radoshniuk-326f486b633680dea31ff8fcde5af02b).
 ### :hammer_and_wrench: Languages and Tools:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
